@@ -1,0 +1,115 @@
+PRODUCT INFORMATION
+
+ELECTRONICS CATEGORY
+--------------------
+
+1. Premium Wireless Headphones (Model: PWH-2000)
+   - Price: $299.99
+   - Features: Active noise cancellation, 30-hour battery life, Bluetooth 5.2
+   - Available Colors: Black, Silver, Blue
+   - Warranty: 1 year manufacturer's warranty
+   - In Stock: Yes
+
+2. Smart Home Hub (Model: SHH-500)
+   - Price: $149.99
+   - Features: Works with Alexa, Google Assistant, Apple HomeKit
+   - Controls: Lights, thermostats, cameras, locks
+   - Warranty: 2 year manufacturer's warranty
+   - In Stock: Yes
+
+3. 4K Action Camera (Model: AC4K-100)
+   - Price: $399.99
+   - Features: 4K 60fps, waterproof to 30m, image stabilization
+   - Includes: 2 batteries, mounting kit, carrying case
+   - Warranty: 1 year manufacturer's warranty
+   - In Stock: Limited (Ships in 2-3 days)
+
+
+CLOTHING CATEGORY
+-----------------
+
+1. Classic Cotton T-Shirt
+   - Price: $24.99
+   - Sizes: XS, S, M, L, XL, XXL
+   - Colors: White, Black, Navy, Gray, Red
+   - Material: 100% organic cotton
+   - Care: Machine wash cold, tumble dry low
+
+2. Premium Denim Jeans
+   - Price: $79.99
+   - Sizes: 28-40 waist, Regular and Slim fit
+   - Colors: Dark wash, Light wash, Black
+   - Material: 98% cotton, 2% elastane
+   - Features: Stretch comfort, reinforced seams
+
+3. Weather-Resistant Jacket
+   - Price: $129.99
+   - Sizes: S, M, L, XL, XXL
+   - Colors: Black, Navy, Olive, Gray
+   - Features: Water-resistant, breathable, adjustable hood
+   - Warranty: 6 months against defects
+
+
+HOME & KITCHEN
+--------------
+
+1. Stainless Steel Cookware Set (12-Piece)
+   - Price: $249.99
+   - Includes: 3 saucepans, 2 frying pans, 1 stock pot, 6 lids
+   - Material: Tri-ply stainless steel
+   - Compatible: All cooktops including induction
+   - Warranty: Lifetime limited warranty
+
+2. Smart Coffee Maker
+   - Price: $179.99
+   - Features: WiFi enabled, programmable, 12-cup capacity
+   - Compatible: iOS and Android app
+   - Includes: Permanent filter, descaling solution
+   - Warranty: 1 year manufacturer's warranty
+
+3. Memory Foam Pillow Set (2-Pack)
+   - Price: $59.99
+   - Size: Standard, Queen, King
+   - Material: CertiPUR-US certified foam, bamboo cover
+   - Features: Hypoallergenic, adjustable loft
+   - Care: Machine washable cover
+
+
+PRODUCT TROUBLESHOOTING
+------------------------
+
+Wireless Headphones:
+- Won't pair: Reset by holding power button for 10 seconds
+- Poor sound quality: Check for firmware updates in companion app
+- Short battery life: Disable ANC when not needed
+
+Smart Home Hub:
+- Can't connect to WiFi: Ensure 2.4GHz network (5GHz not supported)
+- Devices not responding: Restart hub and check device compatibility
+- App issues: Update to latest app version
+
+Action Camera:
+- Video choppy: Use high-speed SD card (Class 10 or higher)
+- Battery draining fast: Disable WiFi when not in use
+- Blurry footage: Clean lens, enable image stabilization
+
+
+COMPATIBILITY INFORMATION
+--------------------------
+
+Smart Home Hub Compatible Devices:
+- Light Bulbs: Philips Hue, LIFX, Sengled
+- Thermostats: Nest, Ecobee, Honeywell
+- Cameras: Ring, Arlo, Wyze
+- Locks: August, Yale, Schlage
+
+Wireless Headphones Compatibility:
+- Works with: All Bluetooth-enabled devices
+- Optimized for: iOS 14+, Android 10+
+- Codec support: AAC, SBC, aptX
+
+Action Camera Accessories:
+- Memory cards: microSD up to 256GB
+- Mounts: GoPro-compatible mounts work
+- Batteries: Compatible with Model AC-BAT-100
+
