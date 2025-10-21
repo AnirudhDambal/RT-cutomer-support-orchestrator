@@ -12,3 +12,4 @@ sentence-transformers==2.3.1
 websockets==12.0
 python-multipart==0.0.6
 
+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
