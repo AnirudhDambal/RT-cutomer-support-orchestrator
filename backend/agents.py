@@ -41,7 +41,7 @@ class CustomerSupportOrchestrator:
         self.llm = ChatGoogleGenerativeAI(
             model="gemini-pro",
             temperature=0.7,
-            google_api_key=""
+            google_api_key=settings.google_api_key
         )
         self.embeddings = HuggingFaceEmbeddings(
             model_name="sentence-transformers/all-MiniLM-L6-v2"
