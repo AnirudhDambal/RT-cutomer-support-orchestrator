@@ -3,13 +3,13 @@ LangGraph Agent System with Supervisor and Workers
 """
 from typing import TypedDict, Annotated, Sequence
 from langgraph.graph import StateGraph, END
-from langchain_openai import ChatOpenAI
+from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import HumanMessage, AIMessage, BaseMessage
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_community.vectorstores import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_community.document_loaders import DirectoryLoader, TextFileLoader
+from langchain_community.document_loaders import DirectoryLoader, TextLoader
 import operator
 from pathlib import Path
 import os
@@ -38,10 +38,10 @@ class CustomerSupportOrchestrator:
     """Main orchestrator using LangGraph with Supervisor-Worker pattern"""
     
     def __init__(self):
-        self.llm = ChatOpenAI(
-            model="gpt-4-turbo-preview",
+        self.llm = ChatGoogleGenerativeAI(
+            model="gemini-pro",
             temperature=0.7,
-            openai_api_key=settings.openai_api_key
+            google_api_key=settings.google_api_key
         )
         self.embeddings = HuggingFaceEmbeddings(
             model_name="sentence-transformers/all-MiniLM-L6-v2"
@@ -67,7 +67,7 @@ class CustomerSupportOrchestrator:
         loader = DirectoryLoader(
             str(knowledge_path),
             glob="**/*.txt",
-            loader_cls=TextFileLoader
+            loader_cls=TextLoader
         )
         
         try:
