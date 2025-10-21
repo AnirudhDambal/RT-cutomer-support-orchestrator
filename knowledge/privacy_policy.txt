@@ -1,0 +1,111 @@
+PRIVACY POLICY
+
+Last Updated: January 1, 2025
+
+1. INFORMATION WE COLLECT
+
+Personal Information:
+- Name, email address, phone number
+- Billing and shipping addresses
+- Payment information (processed securely, not stored)
+- Order history and preferences
+
+Automatic Information:
+- IP address and browser type
+- Device information
+- Cookies and tracking technologies
+- Website usage data
+
+2. HOW WE USE YOUR INFORMATION
+
+We use collected information to:
+- Process and fulfill orders
+- Communicate about your orders and account
+- Provide customer support
+- Send marketing communications (with your consent)
+- Improve our website and services
+- Prevent fraud and enhance security
+- Comply with legal obligations
+
+3. INFORMATION SHARING
+
+We do not sell your personal information. We share data only with:
+- Service providers (shipping, payment processing)
+- Legal authorities when required by law
+- Business partners with your explicit consent
+
+4. DATA SECURITY
+
+We implement industry-standard security measures:
+- SSL encryption for all data transmission
+- Secure payment processing through certified providers
+- Regular security audits and updates
+- Restricted access to personal information
+- Data backup and disaster recovery systems
+
+5. YOUR RIGHTS
+
+You have the right to:
+- Access your personal information
+- Correct inaccurate data
+- Request deletion of your data
+- Opt-out of marketing communications
+- Export your data in portable format
+- Withdraw consent at any time
+
+6. COOKIES AND TRACKING
+
+We use cookies for:
+- Essential website functionality
+- Analytics and performance monitoring
+- Personalization and user preferences
+- Advertising and marketing (with consent)
+
+You can manage cookie preferences in your browser settings.
+
+7. CHILDREN'S PRIVACY
+
+Our services are not directed to children under 13. We do not knowingly collect information from children.
+
+8. DATA RETENTION
+
+We retain your information:
+- Account data: Until account deletion
+- Order history: 7 years for legal compliance
+- Marketing data: Until you opt-out
+- Analytics data: Anonymized after 24 months
+
+9. INTERNATIONAL TRANSFERS
+
+Your data may be processed in countries outside your residence. We ensure adequate protection through:
+- Standard contractual clauses
+- Privacy Shield frameworks (where applicable)
+- Equivalent data protection measures
+
+10. CHANGES TO POLICY
+
+We may update this policy periodically. Significant changes will be notified via email or website notice.
+
+11. CONTACT US
+
+Privacy questions or concerns:
+- Email: privacy@company.com
+- Phone: 1-800-PRIVACY
+- Mail: Privacy Officer, 123 Business St, City, State, 12345
+
+12. YOUR CALIFORNIA PRIVACY RIGHTS (CCPA)
+
+California residents have additional rights:
+- Right to know what information is collected
+- Right to deletion
+- Right to opt-out of sale (we don't sell data)
+- Right to non-discrimination
+
+13. GDPR COMPLIANCE (EU RESIDENTS)
+
+For EU residents:
+- Legal basis for processing: Consent, contract, legitimate interest
+- Data Protection Officer: dpo@company.com
+- Right to lodge complaint with supervisory authority
+- Data transfer safeguards in place
+
