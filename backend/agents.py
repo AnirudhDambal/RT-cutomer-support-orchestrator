@@ -39,7 +39,7 @@ class CustomerSupportOrchestrator:
     
     def __init__(self):
         self.llm = ChatGoogleGenerativeAI(
-            model="gemini-1.5-pro",
+            model="gemini-2.5-flash",
             temperature=0.7,
             google_api_key=settings.google_api_key
         )
