@@ -39,7 +39,7 @@ class CustomerSupportOrchestrator:
     
     def __init__(self):
         self.llm = ChatGoogleGenerativeAI(
-            model="gemini-pro",
+            model="gemini-1.5-pro",
             temperature=0.7,
             google_api_key=settings.google_api_key
         )
@@ -115,7 +115,7 @@ class CustomerSupportOrchestrator:
         
         # Parse decision
         if "knowledge_worker" in decision:
-            next_worker = "knowledge_worker"
+            next_worker = "knowledge_worker"    
         elif "escalation_worker" in decision:
             next_worker = "escalation_worker"
         elif "response_worker" in decision:
