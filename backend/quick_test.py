@@ -4,6 +4,7 @@ Quick test to verify the model is working
 """
 
 import sys
+import time
 from pathlib import Path
 sys.path.append(str(Path(__file__).parent))
 
@@ -20,9 +21,11 @@ def test_model():
             temperature=0.1,
             google_api_key=settings.google_api_key
         )
-        
+
+        start = time.time()
         response = llm.invoke([HumanMessage(content="Say 'Hello World'")])
-        print(f"✅ SUCCESS: {response.content}")
+        elapsed = time.time() - start
+        print(f"✅ SUCCESS: {response.content} (Response time: {elapsed:.2f}s)")
         return True
         
     except Exception as e:
